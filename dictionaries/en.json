@@ -27,5 +27,16 @@
       "title": "Contact us - Zoonk",
       "description": "Reach out to the Zoonk team or schedule an appointment."
     }
+  },
+  "about": {
+    "title": "Our mission",
+    "subtitle": "Everything we do requires us to learn something but learning isn't always easy or fun. We want to change that.",
+    "content_1": "We're building open-source tools to improve our experience while learning things.",
+    "content_2": "Learning should be fun.\nLearning should be practical.\nLearning should be easy.\nLearning should be accessible.",
+    "content_3": "By improving how we learn things, we want to empower a new generation of makers because if we fix education, then we can fix everything else.",
+    "metadata": {
+      "title": "About us - Zoonk",
+      "description": "Learn more about Zoonk and our mission."
+    }
   }
 }

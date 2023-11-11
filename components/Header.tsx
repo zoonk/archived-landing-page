@@ -35,9 +35,15 @@ export default async function Header({ locale }: HeaderProps) {
         />
       </Link>
 
-      <Button href={`/${locale}/contact`} color="primary">
-        {t.header.contact}
-      </Button>
+      <nav className="flex gap-x-2">
+        <Button href={`/${locale}/about`} variant="outline">
+          About
+        </Button>
+
+        <Button href={`/${locale}/contact`} color="primary">
+          {t.header.contact}
+        </Button>
+      </nav>
     </header>
   );
 }

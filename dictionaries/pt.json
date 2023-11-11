@@ -27,5 +27,16 @@
       "title": "Fale conosco",
       "description": "Entre em contato com a Zoonk por e-mail ou marque uma reunião."
     }
+  },
+  "about": {
+    "title": "Nossa missão",
+    "subtitle": "Tudo o que fazemos exige que aprendamos algo, mas aprender nem sempre é fácil ou divertido. Queremos mudar isso.",
+    "content_1": "Estamos desenvolvendo ferramentas de código aberto para melhorar a experiência de aprendizado.",
+    "content_2": "Aprender deve ser divertido.\nAprender deve ser prático.\nAprender deve ser fácil.\nAprender deve ser acessível.",
+    "content_3": "Ao melhorar a maneira como aprendemos, queremos capacitar uma nova geração de criadores, porque se consertarmos a educação, então podemos consertar todo o resto.",
+    "metadata": {
+      "title": "Sobre nós - Zoonk",
+      "description": "Saiba mais sobre a Zoonk e nossa missão."
+    }
   }
 }
