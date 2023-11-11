@@ -11,6 +11,7 @@ import {
 } from "@tabler/icons-react";
 import { Locale } from "@/types";
 import { getDictionary } from "@/dictionaries";
+import Link from "next/link";
 
 const socialLinks = [
   { link: "https://github.com/zoonk", icon: IconBrandGithub },
@@ -41,6 +42,12 @@ export default async function Footer({ locale }: FooterProps) {
           </a>
         ))}
       </div>
+
+      <ul className="text-slate-500 mt-6 sm:mt-0 text-xs hover:underline">
+        <li>
+          <Link href={`/${locale}/privacy`}>Privacy Policy</Link>
+        </li>
+      </ul>
 
       <p className="flex mt-6 gap-1 text-xs text-slate-500 sm:mt-0">
         <span>{t.footer.powered_by}</span>

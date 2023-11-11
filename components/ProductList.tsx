@@ -8,22 +8,10 @@ import { Locale } from "@/types";
 import { getDictionary } from "@/dictionaries";
 
 const products = [
-  {
-    key: "wikaro",
-    img: wikaro,
-  },
-  {
-    key: "ikidoo",
-    img: ikidoo,
-  },
-  {
-    key: "wisek",
-    img: wisek,
-  },
-  {
-    key: "uneebee",
-    img: uneebee,
-  },
+  { key: "wikaro", img: wikaro },
+  { key: "ikidoo", img: ikidoo },
+  { key: "wisek", img: wisek },
+  { key: "uneebee", img: uneebee },
 ];
 
 interface ProductListProps {
@@ -44,12 +32,12 @@ export default async function ProductList({ locale }: ProductListProps) {
             src={item.img}
             height={24}
             unoptimized
-            alt={t.products[item.key].name}
+            alt={t.products[item.key].title}
           />
 
           <div className="flex h-full flex-col">
             <h3 className="font-semibold text-gray-900">
-              {t.products[item.key].name}
+              {t.products[item.key].title}
             </h3>
 
             <p className="mt-1 flex-1 text-gray-600">
