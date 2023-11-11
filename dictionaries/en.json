@@ -1,0 +1,31 @@
+{
+  "header": {
+    "contact": "Contact us"
+  },
+  "footer": {
+    "powered_by": "Created with ❤️ by"
+  },
+  "home": {
+    "hero": {
+      "featured": "solutions for education",
+      "title": "Open-source",
+      "subtitle": "We develop open-source solutions to improve education. We help businesses, schools, universities and content creators to offer better learning experiences."
+    },
+    "metadata": {
+      "title": "Zoonk: Open-source solutions for education",
+      "description": "Zoonk provides open-source learning tools for businesses, schools, universities and content creators.",
+      "twitter": {
+        "title": "Zoonk",
+        "description": "We provide open-source learning tools for businesses, schools, universities and content creators."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact us",
+    "subtitle": "You can contact us at support@zoonk.org or schedule an appointment below:",
+    "metadata": {
+      "title": "Contact us - Zoonk",
+      "description": "Reach out to the Zoonk team or schedule an appointment."
+    }
+  }
+}

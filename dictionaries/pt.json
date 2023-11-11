@@ -1,0 +1,31 @@
+{
+  "header": {
+    "contact": "Fale conosco"
+  },
+  "footer": {
+    "powered_by": "Criado com ❤️ por"
+  },
+  "home": {
+    "hero": {
+      "featured": "soluções para educação",
+      "title": "Desenvolvemos",
+      "subtitle": "Criamos soluções de código aberto para melhorar a educação. Ajudamos empresas, escolas, universidades e criadores de conteúdo a oferecer melhores experiências de aprendizado."
+    },
+    "metadata": {
+      "title": "Zoonk: Ferramentas abertas para educação",
+      "description": "A Zoonk fornece ferramentas de código aberto para empresas, escolas, universidades e criadores de conteúdo.",
+      "twitter": {
+        "title": "Zoonk",
+        "description": "Fornecemos ferramentas de código aberto para empresas, escolas, universidades e criadores de conteúdo."
+      }
+    }
+  },
+  "contact": {
+    "title": "Fale conosco",
+    "subtitle": "Você pode entrar em contato pelo e-mail contato@zoonk.org ou marque uma reunião abaixo:",
+    "metadata": {
+      "title": "Fale conosco",
+      "description": "Entre em contato com a Zoonk por e-mail ou marque uma reunião."
+    }
+  }
+}
