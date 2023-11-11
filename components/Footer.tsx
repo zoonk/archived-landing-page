@@ -13,7 +13,7 @@ import { Locale } from "@/types";
 import { getDictionary } from "@/dictionaries";
 
 const socialLinks = [
-  { link: "https://github.com/zoonk/uneebee", icon: IconBrandGithub },
+  { link: "https://github.com/zoonk", icon: IconBrandGithub },
   { link: "https://x.com/zoonkeducation", icon: IconBrandX },
   { link: "https://linkedin.com/company/zoonk", icon: IconBrandLinkedin },
   { link: "https://instagram.com/zoonkeducation", icon: IconBrandInstagram },
