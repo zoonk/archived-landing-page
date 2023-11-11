@@ -38,5 +38,28 @@
       "title": "About us - Zoonk",
       "description": "Learn more about Zoonk and our mission."
     }
+  },
+  "products": {
+    "view": "View",
+    "wikaro": {
+      "title": "For businesses",
+      "description": "Create interactive guides to engage your employees and attract new customers. It’s easier, faster and cheaper than making video lessons.",
+      "href": "https://wikaro.com/en"
+    },
+    "ikidoo": {
+      "title": "For schools",
+      "description": "Create fun, interactive lessons with real-life examples and aligned with the AP curriculum. Save time on lesson planning.",
+      "href": "https://ikidoo.com/en"
+    },
+    "wisek": {
+      "title": "For creators",
+      "description": "Create interactive courses and earn money. It's easier and faster than producing videos. We only charge you a small comission fee.",
+      "href": "https://mywisek.com/en"
+    },
+    "uneebee": {
+      "title": "Open-source",
+      "description": "Open-source tool for creating interactive courses like Duolingo. Install it on your servers and own your data. MIT license.",
+      "href": "https://uneebee.com"
+    }
   }
 }
