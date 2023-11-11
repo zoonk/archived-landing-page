@@ -43,9 +43,13 @@ export default async function Footer({ locale }: FooterProps) {
         ))}
       </div>
 
-      <ul className="text-slate-500 mt-6 sm:mt-0 text-xs hover:underline">
-        <li>
-          <Link href={`/${locale}/privacy`}>Privacy Policy</Link>
+      <ul className="text-slate-500 inline-flex gap-x-2 mt-6 sm:mt-0 text-xs">
+        <li className="hover:underline">
+          <Link href={`/${locale}/privacy`}>{t.footer.privacy}</Link>
+        </li>
+
+        <li className="hover:underline">
+          <Link href={`/${locale}/terms`}>{t.footer.terms}</Link>
         </li>
       </ul>
 

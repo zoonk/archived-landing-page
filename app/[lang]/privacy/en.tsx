@@ -19,7 +19,7 @@ export default function PrivacyPolicyEN() {
         <section>
           <h2 className="text-2xl font-semibold mb-2">2. Data Collection</h2>
           <p>We collect the following information when you register:</p>
-          <ul>
+          <ul className="py-4 list-disc">
             <li>Full name</li>
             <li>Date of birth</li>
             <li>Email address</li>

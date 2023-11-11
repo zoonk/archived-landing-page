@@ -19,7 +19,7 @@ export default function PrivacyPolicyPT() {
         <section>
           <h2 className="text-2xl font-semibold mb-2">2. Coleta de Dados</h2>
           <p>Coletamos as seguintes informações quando você se registra:</p>
-          <ul>
+          <ul className="py-4 list-disc">
             <li>Nome completo</li>
             <li>Data de nascimento</li>
             <li>Endereço de email</li>

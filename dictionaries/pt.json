@@ -3,7 +3,9 @@
     "contact": "Fale conosco"
   },
   "footer": {
-    "powered_by": "Criado com ❤️ por"
+    "powered_by": "Criado com ❤️ por",
+    "terms": "Termos de uso",
+    "privacy": "Privacidade"
   },
   "home": {
     "hero": {
@@ -18,6 +20,18 @@
         "title": "Zoonk",
         "description": "Fornecemos ferramentas de código aberto para empresas, escolas, universidades e criadores de conteúdo."
       }
+    }
+  },
+  "privacy": {
+    "metadata": {
+      "title": "Política de privacidade - Zoonk",
+      "description": "Política de privacidade da Zoonk."
+    }
+  },
+  "terms": {
+    "metadata": {
+      "title": "Termos de uso - Zoonk",
+      "description": "Termos de uso da Zoonk."
     }
   },
   "contact": {
