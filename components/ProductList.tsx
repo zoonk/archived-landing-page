@@ -1,4 +1,4 @@
-import ikidoo from "@/images/ikidoo.svg";
+import educasso from "@/images/educasso.svg";
 import wikaro from "@/images/wikaro.svg";
 import wisek from "@/images/wisek.svg";
 import uneebee from "@/images/uneebee.svg";
@@ -9,7 +9,7 @@ import { getDictionary } from "@/dictionaries";
 
 const products = [
   { key: "wikaro", img: wikaro },
-  { key: "ikidoo", img: ikidoo },
+  { key: "educasso", img: educasso },
   { key: "wisek", img: wisek },
   { key: "uneebee", img: uneebee },
 ];
