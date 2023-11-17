@@ -75,5 +75,13 @@
       "description": "Open-source tool for creating interactive courses like Duolingo. Install it on your servers and own your data. MIT license.",
       "href": "https://uneebee.com"
     }
+  },
+  "social": {
+    "github": "https://github.com/zoonk",
+    "x": "https://x.com/zoonkeducation",
+    "linkedin": "https://linkedin.com/company/zoonk",
+    "instagram": "https://instagram.com/zoonkeducation",
+    "threads": "https://threads.net/zoonkeducation",
+    "facebook": "https://facebook.com/zoonkeducation"
   }
 }
