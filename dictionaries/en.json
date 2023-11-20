@@ -36,10 +36,18 @@
   },
   "contact": {
     "title": "Contact us",
-    "subtitle": "You can contact us at support@zoonk.org or schedule an appointment below:",
+    "questions": {
+      "title": "Support",
+      "description": "You can ask general questions about our products on our community forum.",
+      "action": "Ask question"
+    },
+    "sales": {
+      "title": "Sales or partnerships",
+      "description": "If you want to talk about sales or partnerships, please send an email to hello@zoonk.org."
+    },
     "metadata": {
       "title": "Contact us - Zoonk",
-      "description": "Reach out to the Zoonk team or schedule an appointment."
+      "description": "Reach out to the Zoonk team."
     }
   },
   "about": {
