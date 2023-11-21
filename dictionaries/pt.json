@@ -13,6 +13,12 @@
       "title": "Desenvolvemos",
       "subtitle": "Criamos soluções de código aberto para melhorar a educação. Ajudamos empresas, escolas, universidades e criadores de conteúdo a oferecer experiências de aprendizado mais envolventes."
     },
+    "sponsors": {
+      "title": "Patrocinadores",
+      "placeholder": "Sua marca",
+      "more": "Apoie nosso trabalho de código aberto tornando-se um patrocinador.",
+      "see_all": "Ver todos"
+    },
     "metadata": {
       "title": "Zoonk: Ferramentas abertas para educação",
       "description": "A Zoonk fornece ferramentas de código aberto para empresas, escolas, universidades e criadores de conteúdo.",
@@ -91,5 +97,19 @@
     "instagram": "https://instagram.com/zoonkbr",
     "threads": "https://www.threads.net/@zoonkbr",
     "facebook": "https://facebook.com/zoonkbrasil"
+  },
+  "sponsors": {
+    "title": "Patrocinadores",
+    "subtitle": "Apoie nosso trabalho de código aberto tornando-se um patrocinador.",
+    "platinum": "Patrocinadores Platinum",
+    "gold": "Patrocinadores Ouro",
+    "silver": "Patrocinadores Prata",
+    "supporters": "Apoiadores",
+    "no_supporters": "Ainda não há apoiadores.",
+    "now": "Patrocinar agora",
+    "metadata": {
+      "title": "Patrocinadores - Zoonk",
+      "description": "Apoie nosso trabalho de código aberto tornando-se um patrocinador."
+    }
   }
 }

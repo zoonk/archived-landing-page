@@ -13,6 +13,12 @@
       "title": "Open-source",
       "subtitle": "We develop open-source solutions to improve education. We help businesses, schools, universities and content creators to offer better learning experiences."
     },
+    "sponsors": {
+      "title": "Sponsors",
+      "placeholder": "Your brand",
+      "more": "Support our open-source work by becoming a sponsor.",
+      "see_all": "See all sponsors"
+    },
     "metadata": {
       "title": "Zoonk: Open-source solutions for education",
       "description": "Zoonk provides open-source learning tools for businesses, schools, universities and content creators.",
@@ -91,5 +97,19 @@
     "instagram": "https://instagram.com/zoonkeducation",
     "threads": "https://threads.net/zoonkeducation",
     "facebook": "https://facebook.com/zoonkeducation"
+  },
+  "sponsors": {
+    "title": "Sponsors",
+    "subtitle": "Support our open-source work by becoming a sponsor.",
+    "platinum": "Platinum sponsors",
+    "gold": "Gold sponsors",
+    "silver": "Silver sponsors",
+    "supporters": "Supporters",
+    "no_supporters": "No supporters yet.",
+    "now": "Sponsor now",
+    "metadata": {
+      "title": "Sponsors - Zoonk",
+      "description": "Support our open-source work by becoming a sponsor."
+    }
   }
 }
