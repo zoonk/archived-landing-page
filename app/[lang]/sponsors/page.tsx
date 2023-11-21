@@ -33,7 +33,7 @@ export default async function SponsorsPage({ params }: SponsorsPageProps) {
   const t = await getDictionary(params.lang);
 
   return (
-    <main className="mx-auto max-w-7xl mt-10 lg:mx-0">
+    <article className="mx-auto max-w-7xl mt-10 lg:mx-0">
       <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
         {t.sponsors.title}
       </h2>
@@ -83,6 +83,6 @@ export default async function SponsorsPage({ params }: SponsorsPageProps) {
 
         <p className="text-sm leading-6">{t.sponsors.no_supporters}</p>
       </div>
-    </main>
+    </article>
   );
 }

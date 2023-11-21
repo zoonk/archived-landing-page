@@ -31,10 +31,10 @@ export async function generateMetadata({
 
 export default async function Home({ params }: HomeProps) {
   return (
-    <main>
+    <article>
       <Hero locale={params.lang} />
       <ProductList locale={params.lang} />
       <HomeSponsors locale={params.lang} />
-    </main>
+    </article>
   );
 }

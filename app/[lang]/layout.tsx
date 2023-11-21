@@ -37,9 +37,9 @@ export default function RootLayout({ children, params }: RootLayoutProps) {
         <PlausibleProvider domain="zoonk.org" />
       </head>
 
-      <body className="mx-auto max-w-7xl p-4 sm:p-6 lg:p-8">
+      <body className="mx-auto flex flex-col gap-y-4 max-w-7xl min-h-dvh p-4 sm:p-6 lg:p-8">
         <Header locale={params.lang} />
-        {children}
+        <main className="flex-1">{children}</main>
         <Footer locale={params.lang} />
       </body>
     </html>

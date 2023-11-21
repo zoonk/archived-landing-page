@@ -26,7 +26,7 @@ export default async function ContactPage({ params }: ContactPageProps) {
   const t = await getDictionary(params.lang);
 
   return (
-    <main className="pt-8 space-y-8 mx-auto max-w-2xl lg:pt-24">
+    <article className="pt-8 space-y-8 mx-auto max-w-2xl lg:pt-24">
       <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
         {t.contact.title}
       </h2>
@@ -46,6 +46,6 @@ export default async function ContactPage({ params }: ContactPageProps) {
           description={t.contact.sales.description}
         />
       </div>
-    </main>
+    </article>
   );
 }
