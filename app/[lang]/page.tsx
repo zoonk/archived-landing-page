@@ -1,5 +1,4 @@
 import Hero from "@/components/Hero";
-import HomeSponsors from "@/components/HomeSponsors";
 import ProductList from "@/components/ProductList";
 import { getDictionary } from "@/dictionaries";
 import type { LanguageParams } from "@/types";
@@ -34,7 +33,6 @@ export default async function Home({ params }: HomeProps) {
     <article>
       <Hero locale={params.lang} />
       <ProductList locale={params.lang} />
-      <HomeSponsors locale={params.lang} />
     </article>
   );
 }

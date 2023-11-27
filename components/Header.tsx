@@ -37,7 +37,7 @@ export default async function Header({ locale }: HeaderProps) {
 
       <nav className="flex gap-x-2">
         <Button href={`/${locale}/about`} variant="outline">
-          About
+          {t.header.about}
         </Button>
 
         <Button href={`/${locale}/contact`} color="primary">
