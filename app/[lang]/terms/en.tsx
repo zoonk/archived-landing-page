@@ -81,6 +81,30 @@ export default function TermsOfServiceEN() {
               Trolling and Harassment: Insulting, derogatory comments, trolling,
               personal attacks, and political attacks are not tolerated.
             </li>
+
+            <li>Spam and Scams: Spam, phishing, and scams are not allowed.</li>
+
+            <li>
+              Copyrighted Content: Content protected by copyright laws is also
+              prohibited. If you believe your content has been copied in a way
+              that constitutes copyright infringement, please contact us at
+              hello@zoonk.org.
+            </li>
+
+            <li>
+              Violent Content: Content that promotes violence or depicts any
+              explicit imagery of violence is not allowed.
+            </li>
+
+            <li>
+              Drugs and Alcohol: Content that promotes or depicts the use of
+              legal or illegal drugs or alcohol is not allowed.
+            </li>
+
+            <li>
+              Any content that violates local laws or promotes illegal activity
+              is also prohibited.
+            </li>
           </ul>
 
           <p>
@@ -149,7 +173,7 @@ export default function TermsOfServiceEN() {
           <h2 className="text-2xl font-semibold mb-2">
             11. Contact Information
           </h2>
-          <p>For inquiries, contact us at support@zoonk.org.</p>
+          <p>For inquiries, contact us at hello@zoonk.org.</p>
         </section>
 
         <section>

@@ -82,6 +82,31 @@ export default function TermsOfServicePT() {
               Trolling e Assédio: Comentários insultuosos, depreciativos,
               trolling, ataques pessoais e políticos não são tolerados.
             </li>
+
+            <li>Spam e Golpes: Spam, phishing e golpes não são permitidos.</li>
+
+            <li>
+              Conteúdo com Direitos Autorais: Conteúdo protegido por leis de
+              direitos autorais também é proibido. Se você acredita que seu
+              conteúdo foi copiado de uma maneira que constitui uma violação de
+              direitos autorais, por favor, entre em contato conosco em
+              contato@zoonk.org.
+            </li>
+
+            <li>
+              Conteúdo Violento: Conteúdo que promove violência ou retrata
+              imagens explícitas de violência não é permitido.
+            </li>
+
+            <li>
+              Drogas e Álcool: Conteúdo que promove ou retrata o uso de drogas
+              lícitas ou ilícitas ou álcool não é permitido.
+            </li>
+
+            <li>
+              Qualquer conteúdo que viole leis locais ou promova atividades
+              ilegais também é proibido.
+            </li>
           </ul>
 
           <p>
