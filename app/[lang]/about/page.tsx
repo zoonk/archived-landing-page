@@ -87,7 +87,7 @@ export default async function AboutPage({ params }: ContactPageProps) {
         </div>
       </div>
 
-      <div className="col-span-2">
+      <div className="md:col-span-2">
         <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
           {t.about.values.title}
         </h2>
