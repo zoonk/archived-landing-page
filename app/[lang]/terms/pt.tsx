@@ -10,10 +10,9 @@ export default function TermsOfServicePT() {
           <h2 className="text-2xl font-semibold mb-2">1. Introdução</h2>
           <p>
             Bem-vindo à Zoonk! Estes Termos de Serviço (&quot;Termos&quot;)
-            regem o seu uso dos sites e serviços da Zoonk, incluindo - mas não
-            limitado às - plataformas Wikaro, Educasso, Ikidoo e Wisek. Ao
-            acessar ou usar nossos serviços, você concorda em estar vinculado a
-            estes Termos e nossa Política de Privacidade.
+            regem o seu uso dos sites e serviços da Zoonk. Ao acessar ou usar
+            nossos serviços, você concorda em estar vinculado a estes Termos e
+            nossa Política de Privacidade.
           </p>
         </section>
 

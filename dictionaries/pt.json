@@ -12,7 +12,7 @@
     "hero": {
       "featured": "soluções para educação",
       "title": "Desenvolvemos",
-      "subtitle": "Criamos soluções de código aberto para melhorar a educação. Ajudamos empresas, escolas, universidades e criadores de conteúdo a oferecer experiências de aprendizado mais envolventes."
+      "subtitle": "Criamos soluções de código aberto para melhorar a educação. Ajudamos empresas, escolas, universidades e criadores de conteúdo a oferecer a melhor experiência de aprendizado possível."
     },
     "metadata": {
       "title": "Zoonk: Ferramentas abertas para educação",
@@ -109,29 +109,6 @@
     "metadata": {
       "title": "Sobre nós - Zoonk",
       "description": "Saiba mais sobre a Zoonk e nossa missão."
-    }
-  },
-  "products": {
-    "view": "Acessar",
-    "wikaro": {
-      "title": "Para empresas",
-      "description": "Crie trilhas interativas para engajar os funcionários e conquistar clientes. É mais fácil, rápido e barato do que produzir videoaulas.",
-      "href": "https://wikaro.com/pt"
-    },
-    "educasso": {
-      "title": "Para escolas",
-      "description": "Crie aulas divertidas e interativas com exemplos práticos e alinhados com a BNCC. Economize tempo no planejamento das aulas.",
-      "href": "https://educasso.com/pt"
-    },
-    "wisek": {
-      "title": "Para criadores",
-      "description": "Crie cursos interativos e ganhe dinheiro. É mais fácil e rápido do que produzir vídeos. Cobramos apenas uma pequena comissão.",
-      "href": "https://mywisek.com/pt"
-    },
-    "uneebee": {
-      "title": "Código aberto",
-      "description": "Ferramenta de código aberto para criar cursos interativos como o Duolingo. Instale em seu próprio servidor de graça. Licença MIT.",
-      "href": "https://uneebee.com"
     }
   },
   "social": {

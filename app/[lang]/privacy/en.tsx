@@ -10,9 +10,7 @@ export default function PrivacyPolicyEN() {
           <h2 className="text-2xl font-semibold mb-2">1. Introduction</h2>
           <p>
             This Privacy Policy applies to all websites managed by{" "}
-            <em>Zoonk Tecnologia e Educação Ltda.</em>, including - but not
-            limited to - UneeBee, Wikaro, Wisek, Educasso and Ikidoo, detailing
-            how we collect, use, and safeguard your personal information.
+            <em>Zoonk Tecnologia e Educação Ltda.</em>.
           </p>
         </section>
 
