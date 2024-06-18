@@ -13,7 +13,7 @@ type RootLayoutProps = {
 };
 
 export const viewport: Viewport = {
-  themeColor: colors.blue[600],
+  themeColor: colors.white,
   colorScheme: "light",
 };
 
