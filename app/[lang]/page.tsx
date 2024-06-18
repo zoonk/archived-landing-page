@@ -1,4 +1,5 @@
 import Hero from "@/components/Hero";
+import ProductList from "@/components/ProductList";
 import { getDictionary } from "@/dictionaries";
 import type { LanguageParams } from "@/types";
 import type { Metadata } from "next";
@@ -36,12 +37,7 @@ export default async function Home({ params }: HomeProps) {
   return (
     <article>
       <Hero locale={params.lang} />
-
-      <div className="waitlist h-[1850px] md:h-[1644px]">
-        <iframe src={WAILIST_FORM_URL[params.lang]} width="640" height="1644">
-          Loading…
-        </iframe>
-      </div>
+      <ProductList locale={params.lang} />
     </article>
   );
 }

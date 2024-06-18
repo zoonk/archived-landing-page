@@ -118,5 +118,23 @@
     "instagram": "https://instagram.com/zoonkbr",
     "threads": "https://www.threads.net/@zoonkbr",
     "facebook": "https://facebook.com/zoonkbrasil"
+  },
+  "products": {
+    "github": "Ver no GitHub",
+    "learn_more": "Saiba mais",
+    "zoonk": {
+      "metadata": {
+        "title": "Zoonk: Alternativa open-source ao Duolingo",
+        "description": "Zoonk é uma plataforma de código aberto para criar cursos interativos como o Duolingo. Crie uma versão white-label do Duolingo para a sua escola, universidade ou negócio."
+      },
+      "name": "Zoonk",
+      "title": "Cursos interativos para a sua escola ou negócio",
+      "subtitle": "Torne as suas aulas e treinamento corporativo mais práticos para engajar alunos e funcionários. Onboarding, dever de casa, tutorias de produtos e mais. O Zoonk torna tudo mais divertido.",
+      "short_description": "Crie cursos interativos para a sua escola ou negócio.",
+      "cta": {
+        "label": "Lista de espera",
+        "url": "https://forms.gle/gLKpMz2WyGaiNitB6"
+      }
+    }
   }
 }
