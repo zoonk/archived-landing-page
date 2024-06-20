@@ -19,7 +19,7 @@ export default async function ProductList({ locale }: ProductListProps) {
   const t = await getDictionary(locale);
 
   return (
-    <div className="mx-auto grid max-w-7xl grid-cols-2 gap-4 py-6 sm:grid-cols-2 sm:gap-x-6 sm:gap-y-0 sm:py-10 lg:grid-cols-4 lg:gap-4 xl:gap-8">
+    <div className="mx-auto grid max-w-7xl grid-cols-2 gap-4 py-6 sm:grid-cols-3 sm:gap-x-6 sm:gap-y-0 sm:py-10 lg:grid-cols-4 xl:grid-cols-5 lg:gap-4 xl:gap-8">
       {products.map((item) => (
         <Card
           key={item.key}
