@@ -1,7 +1,12 @@
 import { Locale, Product } from "@/types";
 import { getDictionary } from "@/dictionaries";
 import Card from "./Card";
-import { IconBrain, IconNotebook, TablerIconsProps } from "@tabler/icons-react";
+import {
+  IconBrain,
+  IconNotebook,
+  IconSchool,
+  TablerIconsProps,
+} from "@tabler/icons-react";
 
 const products: Array<{
   key: Product;
@@ -9,6 +14,7 @@ const products: Array<{
 }> = [
   { key: "zoonk", icon: IconBrain },
   { key: "learn", icon: IconNotebook },
+  { key: "school", icon: IconSchool },
 ];
 
 interface ProductListProps {

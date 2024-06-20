@@ -149,6 +149,20 @@
         "label": "Lista de Espera",
         "url": "https://forms.gle/uUub6ZzKmNyYH4jt8"
       }
+    },
+    "school": {
+      "metadata": {
+        "title": "Zoonk Escola: Cursos para ENEM e concursos",
+        "description": "Passe no ENEM ou concursos públicos com os nossos cursos interativos. Tire uma nota alta no ENEM e concursos."
+      },
+      "name": "Escola",
+      "title": "Passe no ENEM ou concursos públicos",
+      "subtitle": "Cursos interativos para ajudar você a passar no ENEM ou concursos públicos. Tire uma nota alta e conquiste a vaga dos seus sonhos.",
+      "short_description": "Cursos interativos para ENEM ou concursos públicos.",
+      "cta": {
+        "label": "Waitlist",
+        "url": "https://forms.gle/wNeB4wPekr4emNWc7"
+      }
     }
   }
 }

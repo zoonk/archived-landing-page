@@ -1,1 +1,1 @@
-export const PRODUCT_LIST = ["zoonk", "learn"] as const;
+export const PRODUCT_LIST = ["zoonk", "learn", "school"] as const;

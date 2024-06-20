@@ -149,6 +149,20 @@
         "label": "Waitlist",
         "url": "https://forms.gle/SYCEeWE3aUAM8rr47"
       }
+    },
+    "school": {
+      "metadata": {
+        "title": "Zoonk School: Interactive SAT-prep courses",
+        "description": "Get a high score on the SAT with Zoonk School. Our interactive courses are designed to help you prepare for the SAT exam."
+      },
+      "name": "School",
+      "title": "Get ready for the SAT",
+      "subtitle": "Interactive courses to help you prepare for the SAT exam. Get a high score and get into the college of your dreams.",
+      "short_description": "Interactive courses to help you prepare for the SAT exam.",
+      "cta": {
+        "label": "Waitlist",
+        "url": "https://forms.gle/9GWjFFUYm5pKZXBc7"
+      }
     }
   }
 }
