@@ -135,6 +135,20 @@
         "label": "Lista de espera",
         "url": "https://forms.gle/gLKpMz2WyGaiNitB6"
       }
+    },
+    "learn": {
+      "metadata": {
+        "title": "Zoonk Aprende: Aprenda novas habilidades usando IA",
+        "description": "Zoonk Aprende permite que você aprenda qualquer assunto ou habilidade usando IA. Use IA para aumentar sua renda."
+      },
+      "name": "Aprende",
+      "title": "Aprenda qualquer coisa rápido e fácil",
+      "subtitle": "Use IA para aprender um novo assunto, profissão ou habilidade. Aprenda qualquer coisa mais rápido do que nunca - e divirta-se no processo.",
+      "short_description": "Aprenda qualquer assunto, profissão ou habilidade.",
+      "cta": {
+        "label": "Lista de Espera",
+        "url": "https://forms.gle/uUub6ZzKmNyYH4jt8"
+      }
     }
   }
 }
