@@ -177,6 +177,20 @@
         "label": "Lista de Espera",
         "url": "https://forms.gle/VJ1AAan5gYBbjHnJA"
       }
+    },
+    "games": {
+      "metadata": {
+        "title": "Zoonk Jogos: Aprendizado imersivo",
+        "description": "Aprenda novas habilidades com missões práticas em um jogo imersivo onde você precisa resolver problemas do mundo real."
+      },
+      "name": "Jogos",
+      "title": "Aprendizado imersivo",
+      "subtitle": "Aprenda novas habilidades com missões práticas em um jogo imersivo onde você precisa resolver problemas do mundo real.",
+      "short_description": "Aprenda novas habilidades resolvendo problemas do mundo real.",
+      "cta": {
+        "label": "Lista de espera",
+        "url": "https://forms.gle/5CeBmCYgrjR1Lhop9"
+      }
     }
   }
 }

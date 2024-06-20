@@ -24,7 +24,7 @@ export default function Card({
 
       <div className="flex h-full flex-col">
         {icon && (
-          <div className="mb-6 flex h-10 w-10 items-center justify-center rounded-lg bg-blue-600 text-white">
+          <div className="mb-6 flex h-10 w-10 items-center justify-center rounded-lg bg-blue-100 text-blue-600">
             {icon}
           </div>
         )}
@@ -34,7 +34,12 @@ export default function Card({
         <p className="mt-1 flex-1 text-gray-600">{description}</p>
 
         {action && (
-          <Button href={action.href} color="primary" className="mt-4 w-fit">
+          <Button
+            href={action.href}
+            color="slate"
+            variant="outline"
+            className="mt-4 w-fit"
+          >
             {action.label}
           </Button>
         )}

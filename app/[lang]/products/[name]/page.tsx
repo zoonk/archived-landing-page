@@ -1,7 +1,6 @@
 import { getDictionary } from "@/dictionaries";
 import { LanguageParams, Product } from "@/types";
 import { Metadata } from "next";
-import { IconBrain } from "@tabler/icons-react";
 import { PRODUCT_LIST } from "@/utils/products";
 
 const github: Record<Product, string | null> = {
@@ -9,6 +8,7 @@ const github: Record<Product, string | null> = {
   learn: null,
   school: null,
   devs: null,
+  games: null,
 };
 
 interface ProductProps {

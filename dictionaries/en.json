@@ -177,6 +177,20 @@
         "label": "Waitlist",
         "url": "https://forms.gle/KjFEFtTArbzZEKqJ8"
       }
+    },
+    "games": {
+      "metadata": {
+        "title": "Zoonk Games: Immersive learning",
+        "description": "Learn new skills with practical missions in an immersive game where you need to solve real-world problems."
+      },
+      "name": "Games",
+      "title": "Immersive learning",
+      "subtitle": "Learn new skills with practical missions in an immersive game where you need to solve real-world problems.",
+      "short_description": "Learn new skills solving real-world problems.",
+      "cta": {
+        "label": "Waitlist",
+        "url": "https://forms.gle/pCRcdvNPvpeX188UA"
+      }
     }
   }
 }
