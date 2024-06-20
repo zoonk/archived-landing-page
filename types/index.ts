@@ -5,4 +5,4 @@ export interface LanguageParams {
   lang: Locale;
 }
 
-export type Product = (typeof PRODUCT_LIST)[number];
+export type Product = (typeof PRODUCT_LIST)[number]["key"];

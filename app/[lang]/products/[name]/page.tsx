@@ -7,6 +7,8 @@ import { PRODUCT_LIST } from "@/utils/products";
 const github: Record<Product, string | null> = {
   zoonk: "https://github.com/zoonk/zoonk",
   learn: null,
+  school: null,
+  devs: null,
 };
 
 interface ProductProps {
@@ -14,7 +16,7 @@ interface ProductProps {
 }
 
 export async function generateStaticParams() {
-  return PRODUCT_LIST.map((product) => ({ name: product }));
+  return PRODUCT_LIST.map((product) => ({ name: product.key }));
 }
 
 export async function generateMetadata({
@@ -40,12 +42,14 @@ export default async function Page({ params }: ProductProps) {
   const t = await getDictionary(params.lang);
   const product = t.products[params.name];
   const githubLink = github[params.name];
+  const ProductIcon = PRODUCT_LIST.find((item) => item.key === params.name)
+    ?.icon;
 
   return (
     <div className="mx-auto max-w-2xl lg:mx-0 lg:max-w-xl lg:flex-shrink-0 lg:pt-8">
       <div className="mt-8 sm:mt-32 lg:mt-16">
         <span className="rounded-full bg-blue-600/10 flex w-max gap-x-2 items-center px-3 py-1 text-sm font-semibold leading-6 text-blue-600 ring-1 ring-inset ring-blue-600/10">
-          <IconBrain size={16} aria-hidden="true" />
+          {ProductIcon && <ProductIcon size={16} aria-hidden="true" />}
           {product.name}
         </span>
       </div>

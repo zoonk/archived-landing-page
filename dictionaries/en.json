@@ -163,6 +163,20 @@
         "label": "Waitlist",
         "url": "https://forms.gle/9GWjFFUYm5pKZXBc7"
       }
+    },
+    "devs": {
+      "metadata": {
+        "title": "Zoonk Devs: API for online schools",
+        "description": "API and frontend elements for building online schools. Easily create and customize your online school."
+      },
+      "name": "Devs",
+      "title": "APIs for online schools",
+      "subtitle": "API and frontend elements for building online schools. Easily create and customize your own school.",
+      "short_description": "API and frontend elements for building online schools.",
+      "cta": {
+        "label": "Waitlist",
+        "url": "https://forms.gle/KjFEFtTArbzZEKqJ8"
+      }
     }
   }
 }
