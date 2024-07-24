@@ -51,66 +51,6 @@
       "description": "Entre em contato com a Zoonk por e-mail."
     }
   },
-  "about": {
-    "why": {
-      "title": "Por que existimos?",
-      "subtitle": "Tudo na vida exige aprender algo, mas aprender nem sempre é fácil ou divertido. Queremos mudar isso.",
-      "content_1": "Estamos desenvolvendo ferramentas abertas para melhorar a educação.",
-      "content_2": "Aprender deve ser divertido.\nAprender deve ser prático.\nAprender deve ser fácil.\nAprender deve ser acessível.",
-      "content_3": "Ao melhorar a maneira como aprendemos, queremos capacitar uma nova geração de criadores, porque se consertarmos a educação, então podemos consertar todo o resto."
-    },
-    "mission": {
-      "title": "Missão",
-      "subtitle": "Fornecer educação prática, de alta qualidade e acessível a todas as pessoas do planeta."
-    },
-    "vision": {
-      "title": "Visão",
-      "subtitle": "Queremos ajudar a construir um mundo onde aprender é divertido, onde todos entendem como funciona a ciência, onde temos uma nova geração de pessoas resolvendo os maiores problemas do mundo, onde código aberto e transparência são parte essencial da nossa sociedade."
-    },
-    "values": {
-      "title": "Valores",
-      "transparency": {
-        "title": "Transparência",
-        "description": "Tudo o que fazemos é público. Não temos segredos. Somos honestos, abertos, diretos e sempre falamos a verdade."
-      },
-      "ownership": {
-        "title": "Senso de dono",
-        "description": "Somos responsáveis ​​por nossas ações. Não culpamos os outros. Nos organizamos sozinhos. Não precisamos de permissão para fazer as coisas."
-      },
-      "empathy": {
-        "title": "Empatia",
-        "description": "Nos importamos com as pessoas. Não toleramos discriminação, assédio e gênios arrogantes."
-      },
-      "quality": {
-        "title": "Qualidade",
-        "description": "Temos orgulho do nosso trabalho. Não entregamos trabalho de má qualidade. Nos importamos."
-      },
-      "simplicity": {
-        "title": "Simplicidade",
-        "description": "Simplificamos tudo. Não tornamos as coisas mais complicadas do que precisam ser."
-      },
-      "growth": {
-        "title": "Crescimento",
-        "description": "Estamos sempre aprendendo. Não sabemos tudo. Admitimos nossos erros."
-      },
-      "sharing": {
-        "title": "Compartilhamento",
-        "description": "Compartilhamos o conhecimento. Não guardamos segredos. Não temos medo da concorrência."
-      },
-      "collaboration": {
-        "title": "Colaboração",
-        "description": "Ajudamos uns aos outros. Controlamos o ego. Valorizamos mais colaboração do que competição."
-      },
-      "salary_equality": {
-        "title": "Igualdade Salarial",
-        "description": "Salário igual para trabalhos iguais."
-      }
-    },
-    "metadata": {
-      "title": "Sobre nós - Zoonk",
-      "description": "Saiba mais sobre a Zoonk e nossa missão."
-    }
-  },
   "social": {
     "github": "https://github.com/zoonk",
     "x": "https://x.com/zoonkbrasil",

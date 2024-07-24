@@ -36,7 +36,10 @@ export default async function Header({ locale }: HeaderProps) {
       </Link>
 
       <nav className="flex gap-x-2">
-        <Button href={`/${locale}/about`} variant="outline">
+        <Button
+          href="https://github.com/zoonk/.github/blob/main/profile/about.md"
+          variant="outline"
+        >
           {t.header.about}
         </Button>
 

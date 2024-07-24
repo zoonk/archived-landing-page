@@ -51,66 +51,6 @@
       "description": "Reach out to the Zoonk team."
     }
   },
-  "about": {
-    "why": {
-      "title": "Why do we exist?",
-      "subtitle": "Everything we do requires us to learn something but learning isn't always easy or fun. We want to change that.",
-      "content_1": "We're building open-source tools to improve how we learn.",
-      "content_2": "Learning should be fun.\nLearning should be practical.\nLearning should be easy.\nLearning should be accessible.",
-      "content_3": "By improving how we learn things, we want to empower a new generation of problem-solvers. If we can fix education, then we can fix everything else."
-    },
-    "mission": {
-      "title": "Our mission",
-      "subtitle": "Provide high-quality, hands-on and affordable education to every single person on Earth."
-    },
-    "vision": {
-      "title": "Our vision",
-      "subtitle": "We want to help build a world where learning is fun, where everyone understands how science works, where we have a new generation of builders solving the world's biggest problems, where open-source and transparency become a key part of our society."
-    },
-    "values": {
-      "title": "Our values",
-      "transparency": {
-        "title": "Transparency",
-        "description": "Everything we do is public. We don't have secrets. We're honest, open, direct and we always tell the truth."
-      },
-      "ownership": {
-        "title": "Ownership",
-        "description": "We're responsible for our actions. We don't blame others. We're self-organized. We don't need permission to do things."
-      },
-      "empathy": {
-        "title": "Empathy",
-        "description": "We care about people. We don't tolerate discrimination, harassment, and asshole geniuses."
-      },
-      "quality": {
-        "title": "Quality",
-        "description": "We're proud of our work. We don't ship crap. We care."
-      },
-      "simplicity": {
-        "title": "Simplicity",
-        "description": "We avoid over-engineering. We don't make things more complicated than they need to be."
-      },
-      "growth": {
-        "title": "Growth",
-        "description": "We're always learning. We don't know everything. We admit our mistakes."
-      },
-      "sharing": {
-        "title": "Sharing",
-        "description": "We share our knowledge. We don't keep secrets. We are not afraid of competition."
-      },
-      "collaboration": {
-        "title": "Collaboration",
-        "description": "We help each other. We control our egos. We value collaboration over competition."
-      },
-      "salary_equality": {
-        "title": "Salary Equality",
-        "description": "Equal pay for equal jobs."
-      }
-    },
-    "metadata": {
-      "title": "About us - Zoonk",
-      "description": "Learn more about Zoonk and our mission."
-    }
-  },
   "social": {
     "github": "https://github.com/zoonk",
     "x": "https://x.com/zoonkeducation",
