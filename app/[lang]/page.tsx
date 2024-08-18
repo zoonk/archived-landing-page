@@ -37,7 +37,6 @@ export default async function Home({ params }: HomeProps) {
   return (
     <article>
       <Hero locale={params.lang} />
-      <ProductList locale={params.lang} />
     </article>
   );
 }
